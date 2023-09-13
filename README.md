@@ -7,6 +7,13 @@ Now Release v.1.0 !!!
 
 (Sorry About The Bad English)
 
+# Creations
+
+In this tab, I'm putting some creations made by CMD RPG.
+
+## Modes
+
+## Remixes
 
 # Download Exe
 
@@ -28,7 +35,7 @@ Then put other files into Source Files.
 Create a .json file in the directory that consists RPG.exe file.
 Open the file and start editing.
 
-# Example Code
+## Example Code
 
 ```json
 {
