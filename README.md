@@ -10,23 +10,23 @@ Now Release v.1.0 !!!
 
 # Download Exe
 
-Go to Assets then select version you want. Go to Build and download RPG.zip file.
+Go to Assets then select the version you want. Go to Build and download the RPG.zip file.
 Extract it to a file then double click on RPG.exe.
 
 # Add Mods
 
-Put the mod to the directory that consists RPG.exe file.
+Put the mod into the directory that consists RPG.exe file.
 
 # Remix Project
 
-Go to Assets then select version you want. Go to Code and download all files.
-Open Visual Studio and put .h and .hpp files to Header Files.
-Then put other files to Source Files.
+Go to Assets then select the version you want. Go to Code and download all files.
+Open Visual Studio and put .h and .hpp files into Header Files.
+Then put other files into Source Files.
 
 # Make Modes
 
-Create a .json file at the directory that consists RPG.exe file.
-Open file and start editing.
+Create a .json file in the directory that consists RPG.exe file.
+Open the file and start editing.
 
 # Example Code
 
@@ -82,6 +82,6 @@ Open file and start editing.
 }
 ```
 
-File is in two main parts, Enemies and Weapons.
+The file is in two main parts, Enemies and Weapons.
 There are "Count" variables in both of them to represent how many items are in them.
 Every item has an id that starts from 0 and ends in "Count" - 1.
