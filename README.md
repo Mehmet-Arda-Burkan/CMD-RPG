@@ -52,7 +52,7 @@ Open file and start editing.
       "CustomDrop": {
         "Count": 1,
         "0": {
-          "Drop": "Yavuzun Eldiveni",
+          "Drop": "MArda's Gloves",
           "Rarity": "Mythic",
           "Weight": 100
         }
@@ -62,7 +62,7 @@ Open file and start editing.
   "Weapons": {
     "Count": 1,
     "0": {
-      "Name": "Yavuzun Eldiveni",
+      "Name": "MArda's Gloves",
       "Attack": 50,
       "Possibility": 100,
       "Crit": 50,
