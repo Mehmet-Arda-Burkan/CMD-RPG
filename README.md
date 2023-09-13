@@ -82,5 +82,6 @@ Open file and start editing.
 }
 ```
 
-
-More will be here !
+File is in two main parts, Enemies and Weapons.
+There are "Count" variables in both of them to represent how many items are in them.
+Every item has an id that starts from 0 and ends in "Count" - 1.
